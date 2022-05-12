@@ -1,0 +1,3 @@
+[submodule "server"]
+	path = server
+	url = https://github.com/aPatient97/todo_flask_server
